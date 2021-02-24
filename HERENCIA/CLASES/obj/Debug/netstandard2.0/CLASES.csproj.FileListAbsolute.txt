@@ -1,0 +1,9 @@
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.deps.json
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.dll
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.pdb
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.csprojAssemblyReference.cache
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfoInputs.cache
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfo.cs
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.csproj.CoreCompileInputs.cache
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.dll
+D:\LENOVO\Desktop\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.pdb
